@@ -25,7 +25,7 @@ The Inbox App Scaffold is intended for developers - to use it, you need an Inbox
 
 ### Environment Setup
 
-The Inbox iOS App Scaffold uses Cocoapods, a dependency management system for iOS apps similiar to npm and rpm. To set up your local development environment, you'll need to install cocoapods and do a pod install.
+The Inbox iOS App Scaffold uses Cocoapods, a dependency management system for iOS apps similar to npm and rpm. To set up your local development environment, you'll need to install cocoapods and do a pod install.
 
 1. `sudo gem install cocoapods`
 
